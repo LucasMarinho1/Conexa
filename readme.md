@@ -35,15 +35,15 @@ para acessa o phpmyadmin
 
 http://localhost:8081/
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/34521024/169938864-be8e5ada-8aaa-477a-be95-9df38c2c86b3.png">
-</div>
+
+![1](https://user-images.githubusercontent.com/34521024/169938864-be8e5ada-8aaa-477a-be95-9df38c2c86b3.png)
+
 
 ## Avaliacao feita pelo Sonnar
 
-<div align="center>
-<img src="https://user-images.githubusercontent.com/34521024/169938535-b8b63673-e2bf-4c38-bd8c-a49588398d23.JPG" >
-</div>
+
+![2](https://user-images.githubusercontent.com/34521024/169938535-b8b63673-e2bf-4c38-bd8c-a49588398d23.JPG)
+
 
 ## Backlog
 
